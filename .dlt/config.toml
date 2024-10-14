@@ -1,0 +1,6 @@
+[sources.filesystem] 
+file_directory='file://Users/data_gata/Desktop/data_gata/learnDataEng/learnDLT/icepond_loader/mock_customer_tables/'
+
+[destination.filesystem]
+layout = "{table_name}/__{load_id}.{file_id}.{ext}"
+
