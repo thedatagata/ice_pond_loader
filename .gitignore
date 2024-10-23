@@ -6,3 +6,5 @@ secrets.toml
 **/*.py[cod]
 **/*$py.class
 mock_customer_tables
+archive
+config.toml 
